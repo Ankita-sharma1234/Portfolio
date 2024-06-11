@@ -26,7 +26,8 @@ const Bio = ({ slice }: BioProps): JSX.Element => {
         </Heading>
 
         <div className="prose prose-xl prose-slate prose-invert col-start-1">
-          <PrismicRichText field={slice.primary.body}/>
+          {/* <PrismicRichText field={slice.primary.des}/> */}
+        <>{slice.primary.description}</>
         </div>
         <Button
           linkField={slice.primary.button_link}
