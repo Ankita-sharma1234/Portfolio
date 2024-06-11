@@ -1,5 +1,5 @@
 {
-  "name": "unique-portfolio",
+  "name": "amazing-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,20 +13,12 @@
     "@prismicio/client": "^7.5.0",
     "@prismicio/next": "^1.6.0",
     "@prismicio/react": "^2.8.0",
-    "@react-three/drei": "^9.106.0",
-    "@react-three/fiber": "^8.16.8",
-    "@types/three": "^0.165.0",
-    "clsx": "^2.1.1",
-    "gsap": "^3.12.5",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18",
-    "react-icons": "^5.2.1",
-    "three": "^0.165.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@slicemachine/adapter-next": "^0.3.41",
-    "@tailwindcss/typography": "^0.5.13",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -34,7 +26,7 @@
     "eslint-config-next": "14.2.3",
     "postcss": "^8",
     "slice-machine-ui": "^2.2.0",
-    "tailwindcss": "^3.4.4",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
 }

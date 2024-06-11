@@ -1,0 +1,19 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "completely",
+				"type": "Text"
+			},
+			"tech_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#7c512b",
+				"type": "Color"
+			}
+		},
+		"items": []
+	}
+]
